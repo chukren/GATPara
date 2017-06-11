@@ -1,0 +1,8 @@
+category_weighting:
+  flag: true
+  ratio:
+    '17_40': {BHR: 1.5319011531367963, BHT: 2.1556355427920937, BHZ: 1.0}
+    '40_100#body_wave': {BHR: 3.573476510354958, BHT: 4.054113067542499, BHZ: 1.163855638367808}
+    '40_100#surface_wave': {BHR: 3.573476510354958, BHT: 4.054113067542499, BHZ: 1.163855638367808}
+    '90_250': {BHR: 1.5319011531367963, BHT: 2.1556355427920937, BHZ: 1.0}
+receiver_weighting: {flag: true, plot: false, search_ratio: 0.03}

@@ -1,0 +1,7 @@
+category_weighting:
+  flag: true
+  ratio:
+    '17_40': {BHR: 1.572225022811666, BHT: 2.203077997378158, BHZ: 1.0}
+    '40_100': {BHR: 3.617872064811718, BHT: 4.252133192316452, BHZ: 1.17061816532736}
+    '90_250': {BHR: 47.059319107796426, BHT: 29.87968606129697, BHZ: 7.857870946912043}
+receiver_weighting: {flag: true, plot: false, search_ratio: TO BE FILLED}

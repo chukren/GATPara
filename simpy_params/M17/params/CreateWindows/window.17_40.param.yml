@@ -1,0 +1,4 @@
+# make sure that the path of parameter files is absolute path
+"BHZ": "/ccs/proj/geo111/wenjie/AdjointTomography/M16/simpy_wenjie/params/CreateWindows/17_40.BHZ.config.yml"
+"BHR": "/ccs/proj/geo111/wenjie/AdjointTomography/M16/simpy_wenjie/params/CreateWindows/17_40.BHR.config.yml"
+"BHT": "/ccs/proj/geo111/wenjie/AdjointTomography/M16/simpy_wenjie/params/CreateWindows/17_40.BHT.config.yml"
